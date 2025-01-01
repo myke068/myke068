@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myke068
-- 👀 I’m interested in learning C++ and Python
-- 🌱 I’m currently polishing my skills in C++
-- 💞️ I’m looking to collaborate on projects related to Aerospace
+- 👀 I’m interested in learning Machine Learning and Python
+- 🌱 I’m currently polishing my skills in C++ & Python
+- 💞️ I’m looking to collaborate on projects related to Aerospace or ML
 - 📫 How to reach me miguelmenat068@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Speaks 3 languages and codes in C++ and Java
